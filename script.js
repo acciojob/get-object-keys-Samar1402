@@ -1,5 +1,5 @@
 //your JS code here. If required.
-let student{
+let student={
 	name:"Samarjeet"
 }
 Object.prototype.getKeys=function(){
